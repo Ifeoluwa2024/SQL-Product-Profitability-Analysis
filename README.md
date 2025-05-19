@@ -16,7 +16,6 @@ The queries in this project perform:
 - String and date manipulation using built-in SQL functions like `LEN()`, `LEFT()`, `DATENAME()`
 - Aggregation with `SUM()`, `AVG()`, `GROUP BY`, and `HAVING`
 - Table joins between `Product`, `ProductCategory`, `ProductModel`, and `SalesOrderDetail`
-- View creation for reusability
 
 ---
 
@@ -27,7 +26,7 @@ The queries in this project perform:
   - Joins
   - Aggregations and grouping
   - Category classification using `CASE`
-  - Custom views
+  
 
 ---
 
